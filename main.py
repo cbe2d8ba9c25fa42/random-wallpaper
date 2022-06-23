@@ -29,4 +29,4 @@ while True:
     wallpaper = random.choice(wlp)
     path = fr'C:\Users\umuts\Desktop\Rastgele Wallpaper\Duvar Kağıtları\{wallpaper}'
     change_wallpaper(path)
-    time.sleep(2)
+    time.sleep(20)
